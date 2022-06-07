@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+
 project(mbilog)
 
 set(CMAKE_EXPORT_PACKAGE_REGISTRY ON)
